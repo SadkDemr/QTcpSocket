@@ -6,7 +6,7 @@ The QTcpServer class provides a TCP-based server. This class makes it possible t
 
 Client
 
-![Server](https://imgyukle.com/f/2022/05/14/R39PQI.jpg)
+![Server](https://github.com/SadkDemr/QTcpSocket/blob/main/QTCP/img/Sever.jpg?raw=true)
 
 
 Server
